@@ -1,8 +1,21 @@
-# React + Vite
+OVERVIEW
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to DevFinds: Work-Based Experience Sharing Platform!
+DevFinds is a platform designed to help programming students share their work-based experiences and learn from each other. Whether it’s through text, photos, or videos, DevFinds fosters a vibrant community for knowledge exchange and collaboration.
 
-Currently, two official plugins are available:
+FEATURES
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+User Authentication
+Users can securely sign up, log in, and authenticate using JWT (JSON Web Tokens).
+
+Real-time Communication
+Integrated with Socket.io to enable instant messaging and collaboration between users.
+
+Database Management
+MongoDB, paired with Mongoose, ensures efficient data modeling and management.
+
+Session Management
+Cookies are parsed securely for seamless and safe user session handling.
+
+Documentation
+Comprehensive documentation supports developers in understanding and contributing to the codebase effectively.
